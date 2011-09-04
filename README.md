@@ -6,5 +6,5 @@ sections.
 
 Repository:   https://github.com/seebi/easychair.vim
 Screenshot:   https://github.com/seebi/easychair.vim/raw/master/Screenshot.png
-vimscript id: ???
+vimscript id: [3727](http://www.vim.org/scripts/script.php?script_id=3727)
 
