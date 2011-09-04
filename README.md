@@ -4,7 +4,7 @@ Syntax definition for EasyChair review files. The definition is based on
 markdown so markdown (and html) syntax is mentioned in all standard text
 sections.
 
-Repository:   https://github.com/seebi/easychair.vim
-Screenshot:   https://github.com/seebi/easychair.vim/raw/master/Screenshot.png
-vimscript id: [3727](http://www.vim.org/scripts/script.php?script_id=3727)
+* [Repository](https://github.com/seebi/easychair.vim)
+* [Screenshot](https://github.com/seebi/easychair.vim/raw/master/Screenshot.png)
+* [vimscript id 3727](http://www.vim.org/scripts/script.php?script_id=3727)
 
